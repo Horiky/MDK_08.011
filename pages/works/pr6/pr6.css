@@ -1,0 +1,114 @@
+body{
+    background-color: lightblue;
+    }
+    h1{
+        font-size: 24px;
+    }
+    h2{
+        font-size: 20px;
+    }
+    h3{
+        font-size: 18px;
+    }
+    p{
+        font-size: 16px;
+    }
+    *{
+        font-size: 16px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .prew {
+        background: url(../img/Avik.jpeg);
+        width: 300px;
+        height: 200px;
+        background-size: cover;
+    }
+    div{
+        font-size: 16px;
+    }
+    ul li{
+        display: inline-block;
+    
+    }
+    ul{
+        background-color:white;
+        width: 700px;
+        height: 30px;
+    }
+    li a{
+        padding: 10px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: blueviolet;
+    }
+    .Content{
+        display: flex;
+      
+    }
+    main{
+        width: 80%;
+    }
+    aside{
+        width: 20%;
+    }
+    .Navik{
+        display: flex;
+       
+    }
+    .as1 p{
+        background: url(../img/osnovnye_principy_postanovki_lyubogo_navyka-01.jpg);
+        width: 300px;
+        height: 200px;
+        background-size: cover;
+    }
+    .as2 p{
+        background: url(../img/images.png);
+        width: 300px;
+        height: 200px;
+        background-size: cover;
+    }
+    .as3 p{
+        background: url(../img/Z2uEsFuT3VZsyhTCekFq4WOjlxgzNVQVfFHVNmXv.png);
+        width: 300px;
+        height: 200px;
+        background-size: cover;
+    }
+    .kurs{
+        display: flex;
+    }
+    .as4 p{
+        background: url(../img/osh.jpg);
+        width: 300px;
+        height: 200px;
+        background-size: cover;
+    }
+    .as5 p{
+        background: url(../img/дипл.jfif);
+        width: 300px;
+        height: 200px;
+        background-size: cover;
+    }
+    .as6 p{
+        background: url(../img/Без\ названия.jfif);
+        width: 300px;
+        height: 200px;
+        background-size: cover;
+    }
+    .back{
+
+        text-align: center;
+        border: solid;
+        border-color: white;
+        color: blueviolet;
+        background-color: white;
+        border-radius: 7px;
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 24px;
+
+    }
+.im img{
+    width: 150px;
+    height: 100px;
+}
+
+  

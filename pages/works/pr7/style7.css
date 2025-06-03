@@ -1,0 +1,78 @@
+img{
+    width: 10%;
+    height: 10%;
+}
+.p1{
+    text-align: center;
+}
+.p2{
+    text-indent: 5px;
+}
+.p3{
+line-height: 20px;
+}
+.p4 img{
+   
+    vertical-align: super
+}
+.p5{
+    word-spacing: 15px
+}
+.p6{
+    letter-spacing:5px
+}
+.p7{
+    white-space: nowrap
+}
+.p8{
+    tab-size:16px
+}
+.p9{
+    text-transform: uppercase
+}
+.p10{
+    direction:rtl
+}
+#p11{
+    direction:rtl;
+    unicode-bidi:embed
+}
+#p12{
+    text-decoration: overline;
+}
+#p13::first-letter{
+    
+    font-size: 2em;
+        margin-right: 2px; 
+        color: #EE9966;
+        font-weight: bold;
+        text-shadow: -1px -1px 1px white, 1px 1px 1px #9E9D99;
+      
+}
+#p14::first-line{
+    color: #EE9966;
+
+}
+#p15{
+    quotes:'‛' '‚';
+}
+#p16{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+#p17{
+    font-style:italic
+}
+#p18{
+    font-variant:small-caps 
+}
+#p19{
+    font-weight:bold
+}
+#p20{
+    font-size:25px ;
+}
+#p21{
+   color: blueviolet;
+}
+
+

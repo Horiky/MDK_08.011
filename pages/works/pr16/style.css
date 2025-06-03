@@ -1,0 +1,313 @@
+header{
+    display: inline;
+}
+.a1{
+    padding-left: 250px;
+}
+a{
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+}
+.he{
+    padding: 10px;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+.fon{
+    background: url(./img/фон.png);
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    background-position-x: center;  
+    background-position-y: -150;  
+  
+}
+.Web{
+    font-size: 50px;
+    color: white;
+    padding-top: 150px;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    margin: 0 auto;
+}
+.very{
+    color: white;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+.pepe{
+    display: flex;
+    color: white;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    gap: 25px;
+    justify-content: center;
+    font-size: 14px;
+    padding-top: 8px;
+}
+.pe{
+    border: solid;
+    border-width: 1px;
+    border-color: white;
+    padding: 5px;
+}
+.ep{
+    border: solid;
+    border-width: 1px;
+    border-color: #00897a;
+    padding: 5px;
+    background-color: #00897a;
+}
+h3{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;  
+    font-size: 26px;
+    margin: 8px;
+    margin-top: 37px;
+}
+.lor{
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;  
+    font-size: 11px;
+    width: 420px;
+   
+}
+.Eth{
+    background: url(./img/internet.png);
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    margin: 0 auto;
+}
+.le{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 30px;
+}
+.ll{
+    width: 300px;
+}
+.Aw{
+    text-align: center;
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;  
+}
+.lo{
+    text-align: center;
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;  
+}
+.Et{
+    background: url(./img/transfer.png);
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    margin: 0 auto;
+}
+.E{
+    background: url(./img/head.png);
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    margin: 0 auto;
+}
+.FonBlue{
+    background-color: rgb(194, 243, 255);
+    width: 1000px;
+    margin: 0 auto;
+}
+.zzz{
+    padding-top: 150px;
+}
+.lele{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 100px;
+}
+.phone{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+   
+    
+}
+.ar{
+    width: 270px;
+    padding: 10px;
+    background-color: white;
+    height: 300px;
+}
+.lo{
+    width: 160px;
+    margin: 0 auto;
+}
+.lore{
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;  
+    font-size: 11px;
+    width: 190px;
+  
+   
+}
+.iu{
+    text-align: center;
+        font-family: "Open Sans", sans-serif;  
+}
+.aia{
+  
+        font-family: "Open Sans", sans-serif;  
+       
+       
+        font-size: 12px;
+        display: flex;
+        justify-content: center;
+        
+}
+.ai{
+     border: solid black 1px;
+     margin-top: 30px;
+}
+.lele :hover{
+    background-color: #00897a;
+    color: white;
+    
+
+}
+
+.aia :hover{
+    border-color: white;
+}
+footer{
+    background: url(./img/Безымянный.png);
+    width: 1000px;
+    margin: 0 auto;
+    background-size: cover;
+}
+.l{
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;  
+    font-size: 11px;
+    width: 420px;
+    color: white;
+}
+.uu{
+    color: white;
+    padding-top: 100px;
+}
+.ssee{
+    display: flex;
+    color: white;
+    justify-content: center;
+    gap: 20px;
+        font-family: "Open Sans", sans-serif;  
+        margin-top: 100px;
+    
+}
+.ara{
+    text-align: center;
+    width: 200px;
+}
+
+.circle{
+    background-color: rgb(48, 48, 177);
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    
+
+}
+.ima{
+    width: 35px;
+    height: 35px;
+    margin-top: 17px;
+    filter: invert(1);
+}
+.peee {
+    display: inline;
+
+}
+.pee{
+    display: inline;
+  
+
+}
+.didi{
+    display: flex;
+    justify-content: center;
+    font-family: "Open Sans", sans-serif;  
+}
+.imp{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-family: "Open Sans", sans-serif;  
+    margin-top: 30px;
+}
+.imp1{
+    width: 300px;
+    height: 55px;
+    border-radius:7px ;
+    font-family: "Open Sans", sans-serif;
+    color: gray;
+    border-color: white;  
+    font-size: 16px;
+    padding-left: 15px;
+    margin-left: 20px;
+}
+.imp2{
+    width: 300px;
+    height: 55px;
+    border-radius:7px ;
+    font-family: "Open Sans", sans-serif;  
+    color: gray;
+    border-color: white;  
+    font-size: 16px;
+    padding-left: 15px;
+    margin-left: 17px;
+}
+.imp3{
+    margin-top: 70px;
+     padding-right: 480px;
+    padding-bottom: 200px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius:7px ;
+    font-family: "Open Sans", sans-serif;  
+    color: gray;
+    border-color: white;  
+    font-size: 16px;
+    
+}
+.im3{
+    display: flex;
+    justify-content: center;
+}
+.but{
+    float: right;
+    margin-right: 180px;
+    margin-top: 30px;
+    border-radius: 7px;
+    background-color: white;
+    font-family: "Open Sans", sans-serif;  
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.Allr{
+    margin-top: 100px;
+    text-align: center;
+    background-color: white;
+    font-family: "Open Sans", sans-serif;  
+    padding: 10px;
+}

@@ -1,0 +1,61 @@
+.kot{
+    display: grid;
+    width: 1312px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 10px;
+    margin: 0 auto;
+
+
+}
+
+    
+
+.cat1{
+ grid-row: span 2;
+ background: url(./img/9a827f839127efebd1a688fc32fad2a3fa5b244e.png);
+ background-size: cover;
+ width: 489px;
+ height: 612px;
+
+}
+.cat2{
+background: url(./img/b26f02a9752863195fb7d3d4429c0bc368aede56.png);
+ background-size: cover;
+ width: 399px;
+ height: 301px;
+}
+.cat3{
+background: url(./img/58d60ecac1ffd3453a7b3e9908116a696918fc98.png);
+ background-size: cover;
+width: 399px;
+ height: 301px;
+}
+.cat4{
+background: url(./img/7cc3f9ffcc346fda86e4ffdb7f58a49968cec005.png);
+ background-size: cover;
+width: 399px;
+ height: 301px;
+}
+.cat5{
+background: url(./img/6c9a12095c35ef81a44f38d19c6164060676cce6\ \(1\).png);
+ background-size: cover;
+width: 399px;
+ height: 301px;
+}
+p{
+    text-align: center;
+    font-size: 48px;
+    font-style: bold;
+    font-family:"Alumni Sans", sans-serif; 
+}
+.text{
+     font-family:"Alumni Sans", sans-serif; 
+     font-size: 24px;  
+     width: 1330px; 
+     margin: 0 auto;
+     text-align: center;
+}
+.cat6{
+    grid-column: span 3;
+}

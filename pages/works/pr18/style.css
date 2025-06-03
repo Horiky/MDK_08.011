@@ -1,0 +1,41 @@
+.Zag{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(192, 159, 118);
+     font-family: "Quicksand", sans-serif;
+}
+.frat{
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+     font-family: "Quicksand", sans-serif;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+li{
+ list-style-type:none ;
+  font-family: "Quicksand", sans-serif;
+  color: brown;
+}
+li::before{
+    content: ">";
+}
+img{
+    width:10%;
+}
+a{
+    background-color: chocolate;
+    border: solid;
+    border-radius: 6px;
+    border-color: chocolate;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    font-family: "Quicksand", sans-serif;
+
+}
+.li{
+    padding-top: 50px;
+}

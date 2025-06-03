@@ -1,0 +1,110 @@
+.line li {
+    display: inline-block;
+    background: pink;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.links a{
+    height: 30px;
+    display: block;
+    background: blue;
+    margin-bottom: 8px;
+    margin-right: 1750px;
+    color:white;
+    text-decoration: none;
+ 
+    padding-left: 7px;
+}
+
+.blocks div{
+    display: inline;
+    background: red;
+    padding: 10px;
+    margin-left: 10px;
+    padding-top: 15px;
+}
+
+.blocks{
+    margin-top: 25px;
+}
+
+.blocks .non {
+display: none;
+
+}
+
+.links-markers a{
+display: list-item;
+background: rgb(24, 24, 24);
+color: white;
+margin-right: 1750px;
+border: 25px;
+padding-top: 8px;
+padding: 7px;
+}
+.links-markers{
+    margin-top: 25px;
+}
+.image {
+    background-image: url(../../../img/weather-sun.jpg); 
+    height:75px;
+    width: 100px;
+    background-position:center;
+}
+.post1 .image{
+float: left;
+border:solid;
+border-color: red;
+margin-top: 10px;
+}
+.post2 .image{
+float: right;
+border:solid;
+border-color: red;
+}
+.post1 , .post2{
+    background-color: #930303;
+    color: white;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.weat{
+    display: flex;
+
+}
+.weat .pp{
+background-color: rgb(83, 147, 219);
+color: white;
+font-size: 20px;
+width: 115px;
+height: 25px;
+margin: 5px;
+text-align: center;
+}
+.weat p{
+    text-align: center;
+    font-size: 32px;
+    margin: 0;
+}
+.simg{
+    background: url(../../../img/weather-sun.jpg);
+    width: 115px;
+    height: 95px;
+    justify-content: center;
+    float: left;
+}
+.snowimg{
+    background: url(../../../img/weather-snow.jpg);
+    width: 115px;
+    height: 95px;
+    justify-content: center;
+    float:initial;
+}
+.nosunimg{
+    background: url(../../../img/weather-blizzard.jpg);
+    width: 115px;
+    height: 95px;
+    justify-content: center;
+    float: right;
+}
